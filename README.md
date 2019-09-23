@@ -8,7 +8,7 @@ take turn to enter a new word in response to the challenge based on the game rul
 
 ## Preview
 
-<img src="preview.jpg" width="700">
+<img src="preview.png" width="700">
 
 ## Usage
 
