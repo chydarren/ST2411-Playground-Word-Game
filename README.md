@@ -1,4 +1,4 @@
-# Playground Word Game (2 Player)
+# Playground Word Game (Two Players)
 
 ## Introduction
 
