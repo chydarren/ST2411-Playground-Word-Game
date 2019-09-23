@@ -12,7 +12,7 @@ take turn to enter a new word in response to the challenge based on the game rul
 
 ## Usage
 
-Clone this repository into any directory and run `python3 wordgame.py`. 
+Clone this repository into any directory and run `python3 wordgame.py` to play the game.
 
 ## Disclaimer
 
