@@ -12,7 +12,11 @@ take turn to enter a new word in response to the challenge based on the game rul
 
 ## Usage
 
-Clone this repository into any directory and run `python3 wordgame.py` to play the game.
+1. Clone this repository into any directory.
+
+2. Enter the "playground-word-game" directory by typing `cd playground-word-game`. 
+
+3. Run the program by typing `python3 wordgame.py`. 
 
 ## Disclaimer
 
