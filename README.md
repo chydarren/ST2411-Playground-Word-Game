@@ -1,6 +1,6 @@
 # Playground Word Game (Two Players)
 
-This is a Python program that simulates a two player word game. The program will first prompt the players to enter their names to start a 
+***Playground Word Game*** is a Python program that simulates a two player word game. The program will first prompt the players to enter their names to start a 
 new game session. A game session begins by showing an initial challenging word (randomly picked by the program). Each player will then 
 take turn to enter a new word in response to the challenge based on the game rules and earn points. 
 
